@@ -35,6 +35,7 @@ class _MyHomePageState extends State<MyHomePage> {
         'title': 'My Notification',
         'body': 'notification from mobile',
       },
+      'priority': 'high',
       'data': {'name': 'second', 'id': '2131'}
     };
 
